@@ -1,0 +1,62 @@
+[
+	{
+		"event_name": "Tsumugi, Nozomi, Chika",
+		"start_time": "2021/05/18 23:00:00",
+		"end_time": "2021/06/03 22:59:59",
+		"icon_src": "banner_9"
+	},
+	{
+		"event_name": "Clan Battle",
+		"start_time": "2021/05/19 13:00:00",
+		"end_time": "2021/05/24 7:59:59",
+		"icon_src": "clanbattle"
+	},
+	{
+		"event_name": "2x Normal",
+		"start_time": "2021/05/19 13:00:00",
+		"end_time": "2021/05/27 12:59:59",
+		"icon_src": "normal2"
+	},
+	{
+		"event_name": "2x Hard",
+		"start_time": "2021/05/27 13:00:00",
+		"end_time": "2021/05/31 12:59:59",
+		"icon_src": "hard2"
+	},
+	{
+		"event_name": "2x Dungeon",
+		"start_time": "2021/05/31 13:00:00",
+		"end_time": "2021/06/12 12:59:59",
+		"icon_src": "dungeon2"
+	},
+	{
+		"event_name": "Dangerous Vacation! Gourmet Princess on the Beach",
+		"start_time": "2021/06/03 23:00:00",
+		"end_time": "2021/06/22 22:59:59",
+		"icon_src": "questevent_10004"
+	},
+	{
+		"event_name": "Pecorine (Summer)",
+		"start_time": "2021/06/03 23:00:00",
+		"end_time": "2021/06/22 22:59:59",
+		"icon_src": "banner_10"
+	},
+	{
+		"event_name": "13. Dorothea Wetlands",
+		"start_time": "2021/06/12 13:00:00",
+		"end_time": "2021/06/12 13:00:00",
+		"icon_src": "quest_area_013"
+	},
+	{
+		"event_name": "2x Grotto",
+		"start_time": "2021/06/12 13:00:00",
+		"end_time": "2021/06/23 12:59:59",
+		"icon_src": "grotto"
+	},
+	{
+		"event_name": "Suzume (Summer)",
+		"start_time": "2021/06/22 23:00:00",
+		"end_time": "2021/07/09 22:59:59",
+		"icon_src": "banner_11"
+	}
+]
