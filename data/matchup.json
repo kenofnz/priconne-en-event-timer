@@ -33623,5 +33623,481 @@
             "Miyako"
         ],
         "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Shiori",
+            "Kokkoro",
+            "Hiyori",
+            "Nozomi"
+        ],
+        "loser": [
+            "Yuki",
+            "Mitsuki",
+            "Saren",
+            "Ninon",
+            "Lima"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Shiori",
+            "Saren",
+            "Illya",
+            "Shizuru"
+        ],
+        "loser": [
+            "Maho",
+            "Ninon",
+            "Tamaki",
+            "Kuka",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Mitsuki",
+            "Ninon",
+            "Monika",
+            "Tamaki",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Hatsune",
+            "Saren",
+            "Illya",
+            "Monika",
+            "Nozomi"
+        ],
+        "loser": [
+            "Kyoka",
+            "Hatsune",
+            "Akari",
+            "Kuka",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Shiori",
+            "Saren",
+            "Illya",
+            "Shizuru"
+        ],
+        "loser": [
+            "Maho",
+            "Ninon",
+            "Tamaki",
+            "Kuka",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Hatsune",
+            "Saren",
+            "Illya",
+            "Monika",
+            "Nozomi"
+        ],
+        "loser": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Kyoka",
+            "Hatsune",
+            "Akari",
+            "Monika",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Kokkoro (Summer)",
+            "Kokkoro",
+            "Kuka",
+            "Miyako"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Saren",
+            "Illya",
+            "Shizuru"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Kyoka",
+            "Saren",
+            "Illya",
+            "Shizuru",
+            "Lima"
+        ],
+        "loser": [
+            "Kyoka",
+            "Hatsune",
+            "Akari",
+            "Monika",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Monika",
+            "Tamaki",
+            "Kuka"
+        ],
+        "loser": [
+            "Kyoka",
+            "Saren",
+            "Illya",
+            "Shizuru",
+            "Pecorine"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Hatsune",
+            "Io",
+            "Akari",
+            "Kuka"
+        ],
+        "loser": [
+            "Kyoka",
+            "Saren",
+            "Illya",
+            "Shizuru",
+            "Pecorine"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Saren",
+            "Illya",
+            "Shizuru"
+        ],
+        "loser": [
+            "Maho",
+            "Kokkoro (Summer)",
+            "Kokkoro",
+            "Kuka",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Kokkoro (Summer)",
+            "Kokkoro",
+            "Kuka",
+            "Miyako"
+        ],
+        "loser": [
+            "Mitsuki",
+            "Ninon",
+            "Tamaki",
+            "Kaori",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Kyoka",
+            "Saren",
+            "Illya",
+            "Monika",
+            "Shizuru"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Saren",
+            "Illya",
+            "Nozomi"
+        ],
+        "loser": [
+            "Maho",
+            "Io",
+            "Yukari",
+            "Kuka",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Mitsuki",
+            "Ninon",
+            "Nozomi",
+            "Kuka"
+        ],
+        "loser": [
+            "Kyoka",
+            "Karyl (Summer)",
+            "Shiori",
+            "Akari",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Saren",
+            "Illya",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "loser": [
+            "Suzuna",
+            "Illya",
+            "Shizuru",
+            "Nozomi",
+            "Kuka"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Maho",
+            "Yukari",
+            "Tsumugi",
+            "Kuka",
+            "Miyako"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Saren",
+            "Illya",
+            "Monika",
+            "Shizuru"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Yuki",
+            "Rino",
+            "Mitsuki",
+            "Yukari",
+            "Lima"
+        ],
+        "loser": [
+            "Karyl (Summer)",
+            "Suzuna",
+            "Monika",
+            "Yukari",
+            "Nozomi"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Akari",
+            "Makoto",
+            "Kaori",
+            "Kuka"
+        ],
+        "loser": [
+            "Maho",
+            "Io",
+            "Yukari",
+            "Kuka",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Karyl (Summer)",
+            "Akari",
+            "Makoto",
+            "Kaori",
+            "Kuka"
+        ],
+        "loser": [
+            "Maho",
+            "Io",
+            "Yukari",
+            "Kuka",
+            "Miyako"
+        ],
+        "winType": "kill"
+    },
+    {
+        "winner": [
+            "Kyoka",
+            "Karyl (Summer)",
+            "Saren",
+            "Illya",
+            "Kuka"
+        ],
+        "loser": [
+            "Kokkoro (Summer)",
+            "Yukari",
+            "Tamaki",
+            "Nozomi",
+            "Miyako"
+        ],
+        "winType": "kill"
     }
 ]
