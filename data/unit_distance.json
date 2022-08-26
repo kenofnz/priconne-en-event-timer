@@ -3,6 +3,7 @@
 	"Misaki (Summer)": 0,
 	"Chieru": 0,
 	"Yuni": 0,
+	"Mimi (Halloween)": 0,
 	"Lima": 105,
 	"Miyako": 125,
 	"Kuka": 130,
@@ -27,6 +28,7 @@
 	"Hiyori": 200,
 	"Misogi": 205,
 	"Ayane": 210,
+	"Misogi (Halloween)": 212,
 	"Tamaki": 215,
 	"Tomo": 220,
 	"Tamaki (Summer)": 225,
@@ -94,5 +96,6 @@
 	"Yui": 800,
 	"Yuki": 805,
 	"Kyoka": 810,
-	"Misaki (Halloween)": 815
+	"Misaki (Halloween)": 815,
+	"Kyoka (Halloween)": 820
 }
